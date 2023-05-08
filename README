@@ -1,0 +1,64 @@
+
+Sobre
+O sistema desenvolvido representa o menu de um restaurante imaginário chamado foodexplorer.
+
+
+Ferramentas
+Sistema desenvolvido usando as seguintes ferramentas:
+
+- Express;
+- Routes and http method;
+- Controllers;
+- Params;
+- SQL;
+- Knex;
+- JWT;
+- Disk Storage;
+- Cors;
+- Migrations;
+- Query Builder;
+- Middleware;
+
+
+
+Deploy
+
+
+Admin Access (user: admin@email.com / pass: 123456)
+
+
+
+
+
+Modo de Execução
+
+O Sistema é dividido em duas partes:
+
+1. Food-Backend (backend folder)
+2. Food-Frontend (frontend folder)
+
+
+
+Executando o servidor (Backend)
+
+1 - Copie repositório deste projeto
+
+2 - Instale as dependências
+$ npm install
+
+3 - Execute a migration
+$ npm run migrate
+
+4 - Execute o sistema no modo de desenvolvimento
+$ npm run dev
+
+
+
+Principais tecnologias envolvidas no processo:
+
+- Express
+- Multer
+- KnexJS
+- CORS
+- SQLite
+- Node
